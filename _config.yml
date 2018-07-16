@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Jeet Bhatt"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/professional.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Analytics professional with skills of Visualizing, analyzing and communicating big data"
   location         : "New York, NY"
   email            : "jeetbhatt2205@gmail.com"
